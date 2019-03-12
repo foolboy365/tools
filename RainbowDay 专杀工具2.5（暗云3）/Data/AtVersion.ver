@@ -1,0 +1,10 @@
+[product]
+display=5.0.0.062215
+version=5.0.0
+[infos]
+version=5.0.0.062215
+[DisplayVersions]
+Version=5.0.0
+[prover]
+value=v2.5
+
